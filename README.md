@@ -1,6 +1,6 @@
-# Hey, I'm JLage 👋
+# Sup, I'm JLage 👋
 
-**Engenharia Informática e Computação @ FEUP**
+**Informatics and Computing Engineering @ FEUP**
 
 I build things, mostly software.
 
@@ -45,15 +45,6 @@ Gym management web application built from scratch.
 **Tools & Platforms**
 
 `Git` `GitHub` `Linux` `CMake` `Firebase CLI` `FlutterFire`
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlage24&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlage24&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
 
 ---
 
