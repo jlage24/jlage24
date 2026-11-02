@@ -31,9 +31,7 @@ Most of what I know, I picked up by building real projects instead of following 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -43,7 +41,7 @@ Most of what I know, I picked up by building real projects instead of following 
 <table>
   <tr>
     <td width="170"><img src="https://skillicons.dev/icons?i=py,pandas" height="36" alt="Python, Pandas" /></td>
-    <td><a href="https://github.com/jlage24/NBA-Clutch-Decision-Engine"><b>NBA Clutch Decision Engine</b></a><br/>Models shot probability in clutch time from a full season of NBA play-by-play data and converts it into expected points. Key finding: XGBoost showed no detectable gain over a solid logistic baseline, and only shot location and type actually improve the model</td>
+    <td><a href="https://github.com/jlage24/nba-clutch-engine"><b>NBA Clutch Engine</b></a><br/>Models shot probability in clutch time from a full season of NBA play-by-play data and converts it into expected points.</td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="36" alt="Flutter, Dart, Firebase" /></td>
